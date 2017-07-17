@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "skava-proto-eh",
+  "version": "0.0.0",
+  "description": "projects.",
+  "devDependencies": {
+    "testcafe": "^0.16.2"
+  }
+}
