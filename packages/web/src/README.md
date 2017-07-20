@@ -1,0 +1,7 @@
+- entry point
+  - bootstrap/setup
+  - renders router
+  - renders state
+  - renders view/ui
+  - gathers styles/css
+- pages http://bradfrost.com/blog/post/atomic-web-design/
