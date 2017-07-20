@@ -1,16 +1,9 @@
 {
-<<<<<<< HEAD
   "private": true,
   "name": "skava-proto-eh",
   "version": "0.0.0",
   "description": "projects.",
   "devDependencies": {
     "testcafe": "^0.16.2"
-=======
-  "dependencies": {
-    "material-ui": "^1.0.0-alpha.21",
-    "material-ui-icons": "^1.0.0-alpha.19",
-    "typeface-roboto": "0.0.31"
->>>>>>> 585fdb4... initial commit
   }
 }
