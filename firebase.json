@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "skava-pim/public",
+    "public": "packages/web/build/",
     "rewrites": [
       {
         "source": "**",
